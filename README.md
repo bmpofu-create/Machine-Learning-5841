@@ -1,5 +1,5 @@
 
-# Distracted Driver Classification — Machine Learning Project
+# Distracted Driver Classification 
 
 This project implements a **deep learning model** for distracted driver detection.  
 It includes data preprocessing, model training, evaluation, and a clean project structure suitable for reproducibility and deployment.
