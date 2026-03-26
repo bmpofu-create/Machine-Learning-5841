@@ -124,7 +124,7 @@ Adjust based on your actual file names.
 ---
 
 
-## 📝 Notes
+##  Notes
 
 - Large model files are **not** included in the repo  
 - Use the link in `saved_models_on_drive.txt` to download them  
@@ -139,5 +139,3 @@ For major changes, please open an issue first to discuss what you’d like to mo
 
 ---
 
-
-Just tell me what you want to enhance next.
